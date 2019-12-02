@@ -4,7 +4,7 @@
 This app can change the inital text to the text you give it. It can also change the background color and text color. If you click anywhere on the app that isn't a button, it'll go back to the initial background color and change the text to Hello. 
 
 ### App Walk-though
-<img src=http://g.recordit.co/NgYAkgeJCV.gif width=200><br>
+<img src=http://g.recordit.co/YPChU9dBIo.gif width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!

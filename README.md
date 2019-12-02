@@ -4,7 +4,7 @@
 `TODO://` This app can change the inital text to the text you give it. It can also change the background color and text color. If you click anywhere on the app that isn't a button, it'll go back to the initial background color and change the text to Hello. 
 
 ### App Walk-though
-<img src=https://recordit.co/wDyeqZ7XGI width=200><br>
+<img src=http://g.recordit.co/wDyeqZ7XGI.gif width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
